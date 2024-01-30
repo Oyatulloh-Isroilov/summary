@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.result {
+  color: #cac9ff;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "Hanken Grotesk";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 36px auto;
+
+}
+
+.block1 {
+  display: block;
+  padding: 38px 84px 55px 84px;
+  margin-left: 500px;
+  margin-right: auto;
+  width: 368px;
+  border-radius: 32px;
+  background: linear-gradient(180deg, #75f 0%, #6943ff 0.01%, #2f2ce9 100%);
+  margin-top: 70px;
+}
+
+.block1Header {
+  display: flex;
+}
+
+.block1Result {
+  padding: 50px 60px;
+  background: linear-gradient(180deg, #4D21C9 0%, rgba(37, 33, 201, 0.00) 100%, rgba(37, 33, 201, 0.00) 100%);
+  border-radius: 330px;
+  margin-bottom: 28px;
+}
+
+.mainRes {
+  color: #fff;
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "Hanken Grotesk";
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 72px;
+  margin-bottom: 4px;
+}
+
+.ofRes {
+  display: flex;
+  color: #cac9ff;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "Hanken Grotesk";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  opacity: 0.5168;
+  margin-left: 15px;
+}
+
+.condition {
+  color: #fff;
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "Hanken Grotesk";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 15px;
+}
+
+.info {
+  color: #cac9ff;
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "Hanken Grotesk";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.block {
+  display: flex;
+  padding: 38px 84px 55px 84px;
+  margin-left: 900px;
+  margin-right: auto;
+  width: 368px;
+  border-radius: 32px;
+  background: #fff;
+  margin-top: 70px;
+  margin-bottom: 400px;
+}
